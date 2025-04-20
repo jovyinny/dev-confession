@@ -49,6 +49,13 @@ Maybe later rewrite the same using another langauge as i do explore some other l
     python app.py
     ```
 
+## Preview
+
+- Entry page
+![Preview](/images/index.png)
+- Confession submission page
+![Preview](/images//confession-submission.png)
+
 ## Features
 
 - [x] Random confession
